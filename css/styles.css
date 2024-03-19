@@ -20,9 +20,11 @@ h3{
  }
 
 .filme2{
-    width: 20%;
-    right: 40%;
-    border: 5px solid blue;
+    top: 54444px;
+    text-align: center;
+    width: 45%;
+    left: 2000px;
+    
 }
 h5{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -44,12 +46,6 @@ h5{
     
 }
 
-.filme3{
-    width: 20%;
-    right: 40%;
-    border: 5px solid blue;
-}
-
 .rodape{
     text-align: center;
     background-color: blue;
@@ -63,4 +59,45 @@ h5{
     color: aqua;
     margin-top: 18%;
     
+}
+.rodape2{
+    text-align: center;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    width: 150px;
+    align-items: left;
+    justify-content: center;
+    text-decoration: none;
+    color: aqua;
+    margin-top: 18%;
+}
+
+.filmeh{
+    border: 5px solid blue;
+}
+
+
+.filmeaqua{
+    border: 5px solid blue;
+    width: 60%;
+}
+
+.titdiv{
+    top: -570px;
+    text-align: center;
+    width: 45%;
+    left: 180px;
+}
+.filme3{
+    top: -570px;
+    text-align: center;
+    width: 45%;
+    left: 180px;
+}
+
+.filmediv{
+    border: 5px solid blue;
+    width: 60%;
 }
