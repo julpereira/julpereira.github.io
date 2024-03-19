@@ -60,19 +60,6 @@ h5{
     margin-top: 18%;
     
 }
-.rodape2{
-    text-align: center;
-    background-color: blue;
-    padding: 5px;
-    border-radius: 10px;
-    display: flex;
-    width: 150px;
-    align-items: left;
-    justify-content: center;
-    text-decoration: none;
-    color: aqua;
-    margin-top: 18%;
-}
 
 .filmeh{
     border: 5px solid blue;
