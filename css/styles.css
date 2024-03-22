@@ -63,12 +63,13 @@ h5{
 
 .filmeh{
     border: 5px solid blue;
+    width: 450px;
 }
 
 
 .filmeaqua{
     border: 5px solid blue;
-    width: 60%;
+    width: 450px;
 }
 
 .titdiv{
@@ -80,22 +81,36 @@ h5{
 .filme3{
     top: -570px;
     text-align: center;
-    width: 45%;
-    left: 180px;
+    width: 44%;
+    align-items: end ;
+    
 }
 
 .filmediv{
     border: 5px solid blue;
     width: 60%;
+    margin-bottom: 15%;
 }
 
 .filmecasa{
     border: 5px solid blue;
-    width: 25%;
+    width: 30%;
+    left: 500px;
+    
  
 }
 
 .filme4{
-    display: flex;
-    
+    text-align: center;
+    position: relative;
+    align-items: center;
+    bottom: 2445px;
+    left:500px;
+    height: 500px;
+    width: 1520px;
+}
+
+a:hover{
+    color:blue;
+
 }
