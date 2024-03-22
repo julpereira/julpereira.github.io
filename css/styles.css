@@ -20,7 +20,7 @@ h3{
  }
 
 .filme2{
-    top: 54444px;
+    top: 10px;
     text-align: center;
     width: 45%;
     left: 2000px;
@@ -87,4 +87,15 @@ h5{
 .filmediv{
     border: 5px solid blue;
     width: 60%;
+}
+
+.filmecasa{
+    border: 5px solid blue;
+    width: 25%;
+ 
+}
+
+.filme4{
+    display: flex;
+    
 }
