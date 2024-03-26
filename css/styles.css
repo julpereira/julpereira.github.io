@@ -35,6 +35,7 @@ h5{
     text-align: center;
     width: 45%;
     left: 180px;
+    height: 700px;
 
     
 }
@@ -64,38 +65,37 @@ h5{
 .filmeh{
     border: 5px solid blue;
     width: 450px;
+    height: 700px;
 }
 
 
 .filmeaqua{
     border: 5px solid blue;
     width: 450px;
+    height: 700px;
+    
 }
 
-.titdiv{
-    top: -570px;
-    text-align: center;
-    width: 45%;
-    left: 180px;
-}
+
 .filme3{
     top: -570px;
-    text-align: center;
-    width: 44%;
-    align-items: end ;
+    right: 500px;
+    width: 48%;
+    height: 700px;
     
 }
 
 .filmediv{
     border: 5px solid blue;
     width: 60%;
-    margin-bottom: 15%;
+    height: 700px;
 }
 
 .filmecasa{
     border: 5px solid blue;
     width: 30%;
-    left: 500px;
+    height: 700px;
+    
     
  
 }
@@ -104,10 +104,11 @@ h5{
     text-align: center;
     position: relative;
     align-items: center;
-    bottom: 2445px;
-    left:500px;
+    bottom: 2420px;
+    left:550px;
     height: 500px;
     width: 1520px;
+    top: -2230px;
 }
 
 a:hover{
@@ -115,18 +116,7 @@ a:hover{
 
 }
 
-.filmetoy{
-    border: 5px solid blue;
-    width: 50px;
-    
 
-}
 
-.filme5{
-    bottom: 450px;
-    text-align:left;
-    position: relative;
-    text-align: center;
-    bottom: 2208px;
-    left: 340px;
-}
+
+
