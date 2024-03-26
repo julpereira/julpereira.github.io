@@ -65,14 +65,15 @@ h5{
 .filmeh{
     border: 5px solid blue;
     width: 450px;
-    height: 700px;
+   
 }
 
 
 .filmeaqua{
     border: 5px solid blue;
     width: 450px;
-    height: 700px;
+
+    
     
 }
 
@@ -81,20 +82,20 @@ h5{
     top: -570px;
     right: 500px;
     width: 48%;
-    height: 700px;
+ 
     
 }
 
 .filmediv{
     border: 5px solid blue;
-    width: 60%;
-    height: 700px;
+    width: 450px;
+    
 }
 
 .filmecasa{
     border: 5px solid blue;
     width: 30%;
-    height: 700px;
+
     
     
  
@@ -113,10 +114,12 @@ h5{
 
 a:hover{
     color:blue;
-
+    font-size: 20px;
 }
 
-
-
+.filmtit{
+    background-color: blue;
+    
+}
 
 
