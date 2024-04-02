@@ -103,15 +103,22 @@ a:hover{
 
 body{
 background-color:rgb(69, 134, 187);
+flex-direction: column;
 }
 
 .filmecasa{
     border: 5px solid rgb(0, 80, 134);
-    width: 30%;
+    width: 450px;
     margin-left: 60%;
-    margin-bottom: 100%;
+    display: flex;
+    position:relative ;
+    bottom: 2265px;
 }
 
 .titcasa{
-    margin-left: 50%;
+    margin-left: 69%;
+    width: 450px;
+    display: flex;
+    position:relative ;
+    bottom: 2265px;
 }
