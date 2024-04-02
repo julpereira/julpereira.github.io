@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: blue;
+    background-color:  rgb(0, 80, 134);
 }
 .img1{
     position: relative;
@@ -20,10 +20,10 @@ h3{
  }
 
 .filme2{
-    top: 10px;
     text-align: center;
     width: 45%;
     left: 2000px;
+    margin-top: 50px;
     
 }
 h5{
@@ -49,7 +49,7 @@ h5{
 
 .rodape{
     text-align: center;
-    background-color: blue;
+    background-color:  rgb(0, 80, 134);
     padding: 5px;
     border-radius: 10px;
     display: flex;
@@ -63,57 +63,31 @@ h5{
 }
 
 .filmeh{
-    border: 5px solid blue;
+    border: 5px solid  rgb(0, 80, 134);
     width: 450px;
    
 }
 
 
 .filmeaqua{
-    border: 5px solid blue;
+    border: 5px solid  rgb(0, 80, 134);
     width: 450px;
-
-    
-    
 }
 
 
 .filme3{
-    top: -570px;
-    right: 500px;
     width: 48%;
- 
-    
+    margin-left: 10%;
 }
 
 .filmediv{
-    border: 5px solid blue;
+    border: 5px solid  rgb(0, 80, 134);
     width: 450px;
-    
-}
-
-.filmecasa{
-    border: 5px solid blue;
-    width: 30%;
-
-    
-    
- 
-}
-
-.filme4{
-    text-align: center;
-    position: relative;
-    align-items: center;
-    bottom: 2420px;
-    left:550px;
-    height: 500px;
-    width: 1520px;
-    top: -2230px;
+     
 }
 
 a:hover{
-    color:blue;
+    color:rgb(0, 204, 255);
     font-size: 20px;
 }
 
@@ -122,4 +96,22 @@ a:hover{
     
 }
 
+.titdiv{
+    margin-right: 48%;
+    margin-bottom: 100;
+}
 
+body{
+background-color:rgb(69, 134, 187);
+}
+
+.filmecasa{
+    border: 5px solid rgb(0, 80, 134);
+    width: 30%;
+    margin-left: 60%;
+    margin-bottom: 100%;
+}
+
+.titcasa{
+    margin-left: 50%;
+}
