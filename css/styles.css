@@ -3,17 +3,14 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:  rgb(0, 80, 134);
 }
-.img1{
-    position: relative;
-    height: 3%;
-    left: 10%;
-}
+
 a{
     font-size: 100%;
     text-decoration: dashed;
 }
 h2{
     text-align: center;
+    font-size: large;
 }
 h3{
     text-align: center;
@@ -59,7 +56,6 @@ h5{
     text-decoration: none;
     color: aqua;
     
-    margin-bottom: 50%;
     
 }
 
@@ -89,11 +85,11 @@ h5{
 
 a:hover{
     color:rgb(0, 204, 255);
-    font-size: 20px;
+    
 }
 
 .filmtit{
-    background-color: blue;
+    background-color: rgb(0, 80, 134);
     
 }
 
@@ -117,9 +113,19 @@ flex-direction: column;
 }
 
 .titcasa{
-    margin-left: 69%;
+    margin-left: 70%;
     width: 450px;
     display: flex;
     position:relative ;
-    bottom: 2265px;
+    bottom: 2100px;
+}
+
+.ythomem{
+    position: relative;
+    margin-left: 30%;
+    border-color: rgb(69, 134, 187);
+}
+
+ul{
+    width: 50%;
 }
